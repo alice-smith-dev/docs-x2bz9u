@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-vvc82h.salamcuanwin.sbs/sitemap.xml
